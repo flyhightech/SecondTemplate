@@ -1,5 +1,5 @@
 body.signin-body {
-    background-color: blanchedalmond;
+    background-color: ghostwhite;
 }
 
 .container.signin-container {
@@ -8,7 +8,7 @@ body.signin-body {
 
 .card.signin-card {
     padding: 40px 0px 20px;
-    background-color: cornflowerblue;
+    background-color: deepskyblue;
     box-shadow: 3px 6px 5px rgba(0, 0, 0, .5);
 }
 
@@ -21,4 +21,16 @@ img.signin-img {
 form.signin-form {
     max-width: 350px;
     margin: auto;
+}
+
+button.signin-btn {
+    color: white;
+    background-color: orangered;
+    width: 100%;
+    margin-bottom: 0.3rem;
+}
+
+input.need-help-link {
+    text-decoration: none;
+    color: yellow;
 }
