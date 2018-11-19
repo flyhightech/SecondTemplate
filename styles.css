@@ -48,3 +48,8 @@ a.create-new-account {
     text-align: center;
     background: none;
 }
+
+.sectionLight {
+    background-color: aqua;
+    padding: 0.1em;
+}
