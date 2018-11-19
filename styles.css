@@ -13,7 +13,7 @@ body.signin-body {
 }
 
 img.signin-img {
-
-
-    align-self: center;
+    padding: 0 2rem 2rem;
+    margin: auto;
+    display: block;
 }
