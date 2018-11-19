@@ -16,6 +16,7 @@ img.signin-img {
     padding: 0 2rem 2rem;
     margin: auto;
     display: block;
+    width: 60%
 }
 
 form.signin-form {
@@ -39,4 +40,11 @@ a.create-new-account {
     text-align: center;
     display: block;
     margin-top: 15px;
+}
+
+.index2-body {}
+
+.jumbotron {
+    text-align: center;
+    background: none;
 }
