@@ -30,7 +30,13 @@ button.signin-btn {
     margin-bottom: 0.3rem;
 }
 
-input.need-help-link {
-    text-decoration: none;
+a.need-help-link {
     color: yellow;
+}
+
+a.create-new-account {
+    font-size: 1.2rem;
+    text-align: center;
+    display: block;
+    margin-top: 15px;
 }
