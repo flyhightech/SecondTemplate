@@ -51,5 +51,22 @@ a.create-new-account {
 
 .sectionLight {
     background-color: aqua;
-    padding: 0.1em;
+    padding: 3%;
+}
+
+.sectionDark {
+    background-color: lightyellow;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin-top: 10px;
+
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: white;
+    display: block;
+    margin: auto;
 }
