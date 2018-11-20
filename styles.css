@@ -75,4 +75,6 @@ h5.modal-title {
     margin: auto;
 }
 
-.modalFormWrapper {}
+.modalFormWrapper {
+    padding: 2rem;
+}
