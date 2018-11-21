@@ -44,11 +44,10 @@ a.create-new-account {
 
 /* This is the CSS for the second index */
 
-.index2-body {}
-
 .jumbotron {
     text-align: center;
     background: none;
+    padding: 10px;
 }
 
 .sectionLight {
@@ -92,4 +91,9 @@ h5.modal-title {
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.footerImg {
+    padding: 5px;
+    margin: 20%;
 }
