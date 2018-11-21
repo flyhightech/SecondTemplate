@@ -42,6 +42,8 @@ a.create-new-account {
     margin-top: 15px;
 }
 
+/* This is the CSS for the second index */
+
 .index2-body {}
 
 .jumbotron {
@@ -77,4 +79,17 @@ h5.modal-title {
 
 .modalFormWrapper {
     padding: 2rem;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
