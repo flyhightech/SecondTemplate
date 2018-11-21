@@ -97,3 +97,20 @@ h5.modal-title {
     padding: 5px;
     margin: 20%;
 }
+
+.socialWrapper {
+    margin: auto;
+    text-align: center;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: yellow;
+}
+
+.fa-instagram {
+    color: red;
+}
