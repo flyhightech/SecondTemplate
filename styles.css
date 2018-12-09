@@ -2,6 +2,10 @@ body.signin-body {
     background-color: ghostwhite;
 }
 
+.container-fluid {
+    padding: 0;
+}
+
 .container.signin-container {
     margin: 8%;
 }
